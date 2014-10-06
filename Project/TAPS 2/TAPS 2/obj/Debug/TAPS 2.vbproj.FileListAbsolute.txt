@@ -1,0 +1,29 @@
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\bin\Debug\TAPS 2.exe.config
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\bin\Debug\TAPS 2.exe
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\bin\Debug\TAPS 2.pdb
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\bin\Debug\TAPS 2.xml
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\obj\Debug\TAPS_2.Resources.resources
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\obj\Debug\TAPS 2.vbproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\obj\Debug\TAPS 2.exe
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\obj\Debug\TAPS 2.xml
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\obj\Debug\TAPS 2.pdb
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\bin\Debug\mysql.data.dll
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\bin\Debug\mysql.data.entity.EF5.dll
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\bin\Debug\mysql.data.entity.EF6.dll
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\bin\Debug\mysql.web.dll
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\obj\Debug\TAPS 2.vbprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2013\Projects\TAPS 2\TAPS 2\obj\Debug\TAPS_2.frmLogin.resources
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\bin\Debug\TAPS 2.exe.config
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\obj\Debug\TAPS 2.exe
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\obj\Debug\TAPS 2.xml
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\obj\Debug\TAPS 2.pdb
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\bin\Debug\TAPS 2.exe
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\bin\Debug\TAPS 2.pdb
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\bin\Debug\TAPS 2.xml
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\obj\Debug\TAPS 2.vbprojResolveAssemblyReference.cache
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\obj\Debug\TAPS_2.frmError.resources
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\obj\Debug\TAPS_2.frmLogin.resources
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\obj\Debug\TAPS_2.frmSplashScreen.resources
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\obj\Debug\TAPS_2.Resources.resources
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\obj\Debug\TAPS 2.vbproj.GenerateResource.Cache
+C:\Users\Ryan\Dropbox\GitHub\taps-selfevaluation-v2\Project\TAPS 2\TAPS 2\obj\Debug\TAPS_2.frmMain.resources
